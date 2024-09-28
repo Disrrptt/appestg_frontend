@@ -14,7 +14,7 @@ Antes de executar o projeto, verifique se você tem os seguintes softwares insta
 - [Yarn](https://yarnpkg.com/getting-started/install)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/) (para desenvolvimento com Expo)
 
-## Instalação
+## COMANDOS PARA UTILIZAR O APP
 # npm install
 # yarn run
 # expo start
