@@ -1,9 +1,23 @@
-﻿# appestg_frontend
-Este é o repositório do código do aplicativo TemTudaki da aula do professor Leandro Guarino do canal https://www.youtube.com/@leguarino 
-para utilizar o projeto execute os comandos
+# TemTudaki - Aplicativo Frontend
 
-npm install,
-yarn run,
-expo start 
+Este é o repositório do código do aplicativo **TemTudaki**, desenvolvido durante a aula do professor Leandro Guarino, do canal [Leandro Guarino](https://www.youtube.com/@leguarino).
 
-baixe o aplicativo expo go no celular e escaneie o qr code
+## Descrição
+
+**TemTudaki** é um aplicativo que visa estudo da linguagem JavaScript.
+
+## Pré-requisitos
+
+Antes de executar o projeto, verifique se você tem os seguintes softwares instalados:
+
+- [Node.js](https://nodejs.org/) 
+- [Yarn](https://yarnpkg.com/getting-started/install)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/) (para desenvolvimento com Expo)
+
+## Instalação
+# npm install
+# yarn run
+# expo start
+
+
+
